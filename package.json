@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"Standalone monthly giveaway / random drawing app. Not connected to the TransitNow funnel.","license":"UNLICENSED","main":"server.js","name":"transitnow-giveaway","scripts":{"start":"node server.js","test":"node --test test.js"},"version":"1.0.0"}
